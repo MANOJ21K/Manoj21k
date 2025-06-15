@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
-<h3 align="center">Passionate Data Scientist with finance fervor.</h3>
+<h3 align="center">Passionate AI Engineer with finance fervor.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as Data Scientist at **[TheMathCompany](https://themathcompany.com/)**.
+- 🔭 I’m currently working as AI Engineer at **[MathCo](https://themathcompany.com/)**.
 
 - 📝 I regularly write articles on **[Medium](https://medium.com/@manojkotary)**.
 
