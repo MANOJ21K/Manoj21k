@@ -25,6 +25,77 @@
 <a href="https://powerbi.microsoft.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="PowerBI" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"  alt="TensorFlow" width="40" height="40"/> </a>
+<p align="left">
+  <!-- Core GenAI Frameworks -->
+  <a href="https://openai.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="OpenAI" width="40" height="40"/>
+  </a>
+  <a href="https://huggingface.co" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/langchain-ai/langchain" target="_blank">
+    <img src="https://raw.githubusercontent.com/langchain-ai/brand/main/langchain-logo.svg" alt="LangChain" width="40" height="40"/>
+  </a>
+  <a href="https://cohere.ai" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cohere.svg" alt="Cohere" width="40" height="40"/>
+  </a>
+  <a href="https://www.anthropic.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" alt="Anthropic" width="40" height="40"/>
+  </a>
+
+  <!-- Vector DBs & Embedding Stores -->
+  <a href="https://www.pinecone.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/pinecone-io/logo/master/pinecone-icon.svg" alt="Pinecone" width="40" height="40"/>
+  </a>
+  <a href="https://www.trychroma.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chroma.svg" alt="Chroma" width="40" height="40"/>
+  </a>
+  <a href="https://qdrant.tech" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qdrant.svg" alt="Qdrant" width="40" height="40"/>
+  </a>
+  <a href="https://weaviate.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/weaviate.svg" alt="Weaviate" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/pgvector/pgvector" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/vector.png" alt="pgvector" width="40" height="40"/>
+  </a>
+
+  <!-- Model Training & Orchestration -->
+  <a href="https://www.pytorch.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://wandb.ai" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/weightsandbiases.svg" alt="Weights & Biases" width="40" height="40"/>
+  </a>
+
+  <!-- Serving & UI -->
+  <a href="https://fastapi.tiangolo.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  </a>
+  <a href="https://streamlit.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
+  </a>
+
+  <!-- Infra & DevOps -->
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
+  </a>
+
+  <!-- Databases & Caching -->
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" width="40" height="40"/>
+  </a>
+</p>
+
 
 
 
