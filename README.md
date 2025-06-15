@@ -33,9 +33,6 @@
   <a href="https://huggingface.co" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
   </a>
-  <a href="https://github.com/langchain-ai/langchain" target="_blank">
-    <img src="https://raw.githubusercontent.com/langchain-ai/brand/main/langchain-logo.svg" alt="LangChain" width="40" height="40"/>
-  </a>
   <a href="https://cohere.ai" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cohere.svg" alt="Cohere" width="40" height="40"/>
   </a>
@@ -44,18 +41,6 @@
   </a>
 
   <!-- Vector DBs & Embedding Stores -->
-  <a href="https://www.pinecone.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/pinecone-io/logo/master/pinecone-icon.svg" alt="Pinecone" width="40" height="40"/>
-  </a>
-  <a href="https://www.trychroma.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chroma.svg" alt="Chroma" width="40" height="40"/>
-  </a>
-  <a href="https://qdrant.tech" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qdrant.svg" alt="Qdrant" width="40" height="40"/>
-  </a>
-  <a href="https://weaviate.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/weaviate.svg" alt="Weaviate" width="40" height="40"/>
-  </a>
   <a href="https://github.com/pgvector/pgvector" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/vector.png" alt="pgvector" width="40" height="40"/>
   </a>
@@ -63,12 +48,6 @@
   <!-- Model Training & Orchestration -->
   <a href="https://www.pytorch.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://wandb.ai" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/weightsandbiases.svg" alt="Weights & Biases" width="40" height="40"/>
   </a>
 
   <!-- Serving & UI -->
