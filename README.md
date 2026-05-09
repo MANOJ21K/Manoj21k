@@ -58,7 +58,7 @@ I'm an AI Engineer at **[The Math Company (MathCo)](https://themathcompany.com/)
       <p><sub><b>Stack:</b> Ollama · GPT-OSS · Streamlit</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/MANOJ21K/Collection-of-Practical-AI-Tools">🧰 Practical AI Tools (2025)</a></h4>
+      <h4><a href="https://github.com/MANOJ21K/Collection-of-Practical-AI-Tools">🧰 Practical AI Tools (2026)</a></h4>
       <p>A curated, regularly updated collection of AI-powered apps grouped by real-world use case — coding, content creation, voice AI, productivity, and more.</p>
       <p><sub><b>Type:</b> Curated resource list</sub></p>
     </td>
