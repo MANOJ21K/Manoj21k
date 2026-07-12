@@ -86,6 +86,10 @@ I'm an AI Engineer at **[The Math Company (MathCo)](https://themathcompany.com/)
 ### ✍️ Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Asking One LLM to Review Your Code. Here’s the 7-Agent Pipeline That Actually Works](https://medium.com/@manojkotary/stop-asking-one-llm-to-review-your-code-heres-the-7-agent-pipeline-that-actually-works-08e795df7669?source=rss-b20a1db53442------2)
+- [Google Shrunk LLM Memory by 6× With Zero Accuracy Loss. Here’s How TurboQuant Works.](https://ai.plainenglish.io/google-shrunk-llm-memory-by-6-with-zero-accuracy-loss-heres-how-turboquant-works-8a1233ff56b1?source=rss-b20a1db53442------2)
+- [Choosing the Right Chunking Strategy: What Nobody Tells You](https://ai.plainenglish.io/choosing-the-right-chunking-strategy-what-nobody-tells-you-8829e2cb99f8?source=rss-b20a1db53442------2)
+- [The Evolution of Intelligence: From Traditional AI to the Dawn of Agentic Systems](https://ai.plainenglish.io/the-evolution-of-intelligence-from-traditional-ai-to-the-dawn-of-agentic-systems-1df5d5a80227?source=rss-b20a1db53442------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p><sub>More on <a href="https://medium.com/@manojkotary">Medium →</a></sub></p>
